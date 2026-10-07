@@ -1,0 +1,1 @@
+#vary one parameter and see the effect on apogee, mass and stability
